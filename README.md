@@ -2,9 +2,12 @@ Utopia
 Tableau Dashboard
 Link: 
 [Tableau Dashboard: Category A](https://public.tableau.com/views/UtopiaCategoryA/CategoryA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [Tableau Dashboard: Category B](https://public.tableau.com/views/UtopiaCategoryB/CategoryB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [Tableau Dashboard: Category C](https://public.tableau.com/views/UtopiaCategoryC/CategoryC?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
- [Tableau Dashboard: Category D](https://public.tableau.com/views/UtopiaCategoryD/CategoryD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Tableau Dashboard: Category D](https://public.tableau.com/views/UtopiaCategoryD/CategoryD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Table of Contents
 Tableau Dashboard
