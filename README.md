@@ -49,7 +49,6 @@ Insert dataset name here www.datapandas.com
 
 
 Conclusion
-The data analysis shows countries with most incoming immigrants are USA, UK, Saudi Arabia, Russia, Germany, Australia, France, Italy and Canada. It is given that theses countries have better opportunities for work, health and education that can drive people to move for better life for themselves and their loved ones. Countries where people are moving from include Mexico, India, Syria, Ukraine, China, Russia, Pakistan, Philippines, Afghanistan. My analysis shows some of these countries are ranked high in statistical risk assessment for mass killing however the correlation was not sufficient enough to claim that this could be the cause of migration. Most of the countries are developing countries and it could be concluded that violence, religious freedom, and unemployment could also play a vital role in migration.
 
 About
 No description, website, or topics provided.
