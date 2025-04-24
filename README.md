@@ -4,15 +4,15 @@
 
 
 ### Table of Contents
-#### [Tableau Dashboard](#Utopia)
-#### [Motivation](#Motivation)
-#### [Questions](#Questions)
-#### [Normalizing the Data](#Normalizing_the_Data)
-#### [Categorization & Calculation Process](#Categorization_&_Calculation_Process)
-#### [Challenges](#Challenges)
-#### [Technologies Used](#technologies-used)
-#### [Sources](#Data_Sources)
-#### [Conclusion](#Conclusion)
+#### [Tableau Dashboard](#utopia-tableau-dashboard-link)
+#### [Motivation](#motivation-1motivation)
+#### [Questions](#conclusion-1)
+#### [Normalizing the Data](#normalizing-the-data-1)
+#### [Categorization & Calculation Process](#categorization--calculation-process-1)
+#### [Challenges](#challenges-1)
+#### [Technologies Used](#technologies-used-1)
+#### [Sources](#data-sources)
+#### [Conclusion](#conclusion-1)
 
 
 
