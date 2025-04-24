@@ -5,26 +5,31 @@ Link:
 
 
 
-Table of Contents
-Tableau Dashboard
-Motivation
-Questions
-Normalizing the Data
-Problems and Hurdles
-Technologies Used
-Sources
-Conclusion
-Motivation:
+# Table of Contents
+## Tableau Dashboard
+## [Motivation](#Motivation)
+## Questions
+## Normalizing the Data
+## Challenges
+## Technologies Used
+## Sources
+## Conclusion
+
+
+
+
+### Motivation
 Growing up in the United States, I was often led to believe that the United States was one of the best nations in the world.  I believe public schooling often teaches American children to focus on the positives of the United States, without fully acknowledging the shortcomings of our country or the ways in which other nations surpass us.  I wanted to illustrate the different strengths and weaknesses of major countries all over the world, while highlighting potential interesting correlations and giving a numeric weighted score to each country, based on physiological, psychological, and emotional needs and how those needs are addressed by each governing body.
 
 
-Questions:
+### Questions
+
 Which countries fail to meet its citizens basic needs, and what countries best meet them?
 Which countries rank as the safest and most unsafe in comparison to one another?
 Is there a correlation between reported happiness levels and longer levels of schooling? What about happiness and access to the internet?
 
 
-Problems and Hurdles
+Challenges
 
 Despite a lot of these metrics being obtained by the same organizations, many of them did not have universalized country names. For example, The United Kingdom sometimes showed up as Great Britain, or the UK.  To combat this, I installed and imported "country_converter". This didn't fix all the issues, but it did limit how many countries I was inadvertently losing due to attempting to merge data frames with non-matching names.
 
