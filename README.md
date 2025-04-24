@@ -10,7 +10,7 @@
 #### [Normalizing the Data](#Normalizing_the_Data)
 #### [Categorization & Calculation Process](#Categorization_&_Calculation_Process)
 #### [Challenges](#Challenges)
-#### [Technologies Used](#Technologies_Used)
+#### [Technologies Used](#technologies-used)
 #### [Sources](#Sources)
 #### [Conclusion](#Conclusion)
 
