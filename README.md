@@ -1,19 +1,17 @@
-Utopia
-Tableau Dashboard
-Link: 
+## Utopia Tableau Dashboard Link: 
 [Tableau Dashboard](https://public.tableau.com/views/UtopiaFinalProject/MainPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
-# Table of Contents
-## Tableau Dashboard
-## [Motivation](#Motivation)
-## Questions
-## Normalizing the Data
-## Challenges
-## Technologies Used
-## Sources
-## Conclusion
+## Table of Contents
+### Tableau Dashboard
+### [Motivation](#Motivation)
+### Questions
+### Normalizing the Data
+### Challenges
+### Technologies Used
+### Sources
+### Conclusion
 
 
 
