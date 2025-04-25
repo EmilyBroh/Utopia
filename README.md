@@ -34,7 +34,7 @@ To ensure that all features contributed equally to the analysis, I normalized th
 dataframe['normalized_column'] = (dataframe['column']   - dataframe['column'].min()) / (dataframe['column'].max() - dataframe['column'].min())
 
 --
-This formula ensure that every value was converted to value of anywhere from 0 to 1. Because I wanted my point system to reflect a higher number of points being more preferable, I had to adjust my formula in instances where the original data reflected a higher score as being less favorable. To do this, I simply adjusted the formula by adding a "1-" at the beginning of the formula. Here's how that looked:
+This formula ensured that every value was converted to value of anywhere from 0 to 1. Because I wanted my point system to reflect a higher number of points being more preferable, I had to adjust my formula in instances where the original data reflected a higher score as being less favorable. To do this, I simply adjusted the formula by adding a "1-" at the beginning of the formula. Here's how that looked:
 
 dataframe['normalized_column'] = (dataframe['column']   - dataframe['column'].min()) / (dataframe['column'].max() - dataframe['column'].min())
 
