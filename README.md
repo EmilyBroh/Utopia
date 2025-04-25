@@ -1,5 +1,5 @@
 ### Utopia Tableau Dashboard Link: 
-[Tableau Dashboard](https://public.tableau.com/views/UtopiaFinalProject/MainPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/Utopia_smallerscreen/Main_s?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
